@@ -3,6 +3,7 @@ function printName() {
 }
 
 function findName() {
+	function a() {}
 	return printName()
 }
 
