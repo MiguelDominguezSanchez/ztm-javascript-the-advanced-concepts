@@ -18,6 +18,7 @@ console.log(sayMyName())
 ////////// 4. Hoisting
 
 console.log('1-------')
+var teddy = undefined
 console.log(teddy)
 console.log(sing())
 var teddy = 'bear'
